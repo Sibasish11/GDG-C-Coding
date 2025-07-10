@@ -24,7 +24,12 @@ This project was built for a coding competition organized by Google Developer Gr
 
 ## Screenshot
 - Below is a screenshot of the program in action:
-  ![Terminal Output](EX3.png)
+
+ ### 1. Output Section:
+![Code SS](./assets/EX3.png)
+
+ ### 2. Code:
+ ![Code SS](./assets/code.png)
 
 ## Contributions
 This project was developed as part of a competition by GDG Bhubaneswar.
